@@ -60,6 +60,18 @@ To set up this bot, follow these steps:
    npm start
    ```
 
+#### DEPLOY TO KOYEB 
+
+1. If You don't have a account in koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb'/></a>
+
+2. Now Deploy
+    <br>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-DL-TG&branch=main&name=xdltelegram&builder=dockerfile&env[BOT_TOKEN]=%20&env[OWNER]=ASWIN+SPARKY' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
+
+
+
 ## Requirements
 
 - Node.js (v14 or above)

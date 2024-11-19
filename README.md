@@ -69,7 +69,7 @@ To set up this bot, follow these steps:
 
 2. Now Deploy
     <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-DL-TG&branch=main&name=xdltelegram&builder=dockerfile&env[BOT_TOKEN]=%20&env[OWNER]=ASWIN+SPARKY' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-DL-TG&branch=main&name=xdltelegram&builder=dockerfile&env[BOT_TOKEN]=%20&env[OWNER]=ASWIN+SPARKY&env[OWNER_ID]=https://t.me/belladesuda&env[GROUP]=https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 
 

@@ -94,3 +94,24 @@ async ({
 	}
 }
 );
+
+Sparky({
+ on: "text"
+},
+async ({
+ m,
+ args
+}) => {
+ if (['https://teraboxlink.com','https://terasharelink.com','https://1024terabox.com','https://freeterabox.com'].some(url => args.includes(url))){
+ m.reply("Please Wait....");
+ try {
+let sample = await fetch("https://ironman.koyeb.app/ironman/dl/terabox?link="+args);
+var data = await sample.json();
+const opts = {};
+await m.sendMsg(data.dlink, opts, 'video');
+} catch (e) {
+ m.reply(e)
+ }
+ }
+}
+);
